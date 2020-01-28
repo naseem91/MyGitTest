@@ -3,4 +3,8 @@ object GitTest {
     println("hello world !")
     println("hello world Baghdad")
   }
+
+  def add(A:Int ,B:Int)={
+    A+B
+  }
 }
