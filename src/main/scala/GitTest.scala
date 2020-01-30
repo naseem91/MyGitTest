@@ -7,4 +7,8 @@ object GitTest {
   def add(A:Int ,B:Int)={
     A+B
   }
+
+  def testConflict()={
+    println("Conflict")
+  }
 }
