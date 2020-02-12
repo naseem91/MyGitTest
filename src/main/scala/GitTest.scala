@@ -7,4 +7,9 @@ object GitTest {
   def add(A:Int ,B:Int)={
     A+B
   }
+
+  def sayHello()={
+    println("Hello world")
+  }
+
 }
