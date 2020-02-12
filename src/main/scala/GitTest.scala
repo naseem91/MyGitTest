@@ -8,9 +8,4 @@ object GitTest {
     A+B
   }
 
-  def sayHello()={
-    println("Hi")
-  }
-
-
 }
